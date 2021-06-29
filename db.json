@@ -1,0 +1,44 @@
+{
+    "user":[
+        {
+        "id" :"1",
+        "firstname" : "Kabil",
+        "lastname" : "K",
+        "email" : "k.kabil17@gmail.com",
+        "mobile" : "9745317909"
+        
+     },
+     {
+        "id" :"2",
+        "firstname" : "Livin",
+        "lastname" : "K",
+        "email" : "livin17@gmail.com",
+        "mobile" : "9745317998"
+        
+     },
+     {
+        "id" :"3",
+        "firstname" : "Arun",
+        "lastname" : "K",
+        "email" : "arun@gmail.com",
+        "mobile" : "9745317904"
+        
+     },
+     {
+        "id" :"4",
+        "firstname" : "Kiran",
+        "lastname" : "K",
+        "email" : "kiran@gmail.com",
+        "mobile" : "9745317902"
+        
+     },
+     {
+        "id" :"5",
+        "firstname" : "Vishnu",
+        "lastname" : "K",
+        "email" : "vishnu@gmail.com",
+        "mobile" : "9745317901"
+        
+     }
+    ]
+}
